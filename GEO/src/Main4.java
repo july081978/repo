@@ -17,7 +17,8 @@ import java.util.Map;
 import org.json.JSONObject;
 
 /**
- * 學生地理位置資訊(無論如何弄出來)
+ * 學生地理位置資訊
+ * (無論如何弄出來)
  * @author shawn
  *
  */
